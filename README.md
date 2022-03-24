@@ -24,3 +24,7 @@ Today I Learned 작성
  + 순수 JDBC
  + 스프링 통합 테스트
  + 스프링 jdbcTemplate
+2022.03.24(목)
+ + JPA
+ + 스프링 데이터 JPA
+ + AOP 개념, 
