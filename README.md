@@ -47,3 +47,5 @@ Today I Learned 작성
  - 스프링 빈 조회 : 기본, 동일한 타입이 둘 이상, 상속 관계  
  - BeanFactory 와 ApplicationContext  
  - 설정 형식 지원 - 자바 코드, xml  
+**2022.04.06(수)**  
+- 싱글톤 패턴  
