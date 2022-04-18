@@ -62,3 +62,7 @@ Today I Learned 작성
 ### 2022.04.12 ~ 2022.04.15
  - 실습 프로젝트(card-payment) 생성 및 기본 구조 소스코드 작성
  - HTTP API 
+### 2022.04.16 ~ 2022.04.17
+ - 컨트롤러 및 REST API 구조 설계, DTO 생성
+### 2022.04.18
+ - DTO 구조 변경, Exception Handling 처리 학습
