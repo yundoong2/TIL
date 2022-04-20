@@ -66,3 +66,7 @@ Today I Learned 작성
  - 컨트롤러 및 REST API 구조 설계, DTO 생성
 ### 2022.04.18
  - DTO 구조 변경, Exception Handling 처리 학습
+### 2022.04.19
+ - 파라미터 객체 Validation 추가
+### 2022.04.20
+ - 데이터 암호화 클래스 
