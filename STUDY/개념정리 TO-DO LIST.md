@@ -1,0 +1,40 @@
+## 개념정리 TO-DO LIST
+- SOLID 원칙
+- DTO, VO, Entity, DAO 정의 및 차이점
+- Primitive 타입 vs Reference 타입
+- Spring Parameter Auto 바인딩
+- Optional 정의 및 사용법
+- 불변 객체, 가변 객체, 일급 객체
+- 함수형 프로그래밍 vs 객체 지향 프로그래밍
+- 직렬화(Serialize) 개념 정의
+- IOC, DI
+- @ControllerAdvice, @RestConrollerAdvice
+- @Component vs @Configuration
+- Spring Container 와 Spring Bean
+- 싱글톤 컨테이너
+- Component Scan
+- 의존관계 자동 주입
+- 빈 생명주기 콜백
+- 빈 스코프
+- 핸들러 매핑과 핸들러 어댑터
+- View Resolver
+- 메시지, 국제화
+- Validation, Bean Validation
+- Cookie, Session
+- Filter, Interceptor
+- Spring Type Converter
+- 파일 업로드
+- LocalThread
+- 디자인 패턴
+  - 템플릿 메소드 패턴, 콜백 패턴
+  - 프록시 패턴, 데코레이터 패턴
+- Proxy
+- Bean 후처리기
+- AOP
+- DDL, DML, DCL
+- Future, CompletableFuture (멀티쓰레드)
+- TypeReference (AOP)
+- TDD, BDD, ATDD, DDD
+- Junit(xUnit)
+- Swagger
+- JPA
