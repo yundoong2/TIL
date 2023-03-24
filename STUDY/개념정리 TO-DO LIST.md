@@ -1,6 +1,6 @@
 ## 개념정리 TO-DO LIST
-- SOLID 원칙
-- DTO, VO, Entity, DAO 정의 및 차이점
+- ~~SOLID 원칙~~ - [정리 Link](https://velog.io/@yoondoong/SOLID-%EC%9B%90%EC%B9%99)
+- ~~DTO, VO, Entity, DAO 정의 및 차이점~~ - [정리 Link](https://velog.io/@yoondoong/DTO-DAORepository-VO-Entity)
 - Primitive 타입 vs Reference 타입
 - Spring Parameter Auto 바인딩
 - Optional 정의 및 사용법
