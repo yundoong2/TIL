@@ -1,11 +1,14 @@
 ## 개념정리 TO-DO LIST
-- ~~SOLID 원칙~~ - [정리 Link](https://velog.io/@yoondoong/SOLID-%EC%9B%90%EC%B9%99)
-- ~~DTO, VO, Entity, DAO 정의 및 차이점~~ - [정리 Link](https://velog.io/@yoondoong/DTO-DAORepository-VO-Entity)
-- ~~Primitive 타입 vs Reference 타입~~ - [정리 Link](https://velog.io/@yoondoong/%EC%9B%90%EC%8B%9C-%ED%83%80%EC%9E%85Primitive-Type-%EC%B0%B8%EC%A1%B0-%ED%83%80%EC%9E%85Reference-Type)
-- ~~Spring Parameter Auto 바인딩~~ - [정리 Link](https://velog.io/@yoondoong/Parameter-%EC%98%A4%ED%86%A0-%EB%B0%94%EC%9D%B8%EB%94%A9)
-- ~~Optional 정의 및 사용법~~ - [정리 Link](https://velog.io/@yoondoong/Optioanl%EC%9D%B4%EB%9E%80)
-- ~~불변 객체, 가변 객체, 일급 객체~~ - [정리 Link](https://velog.io/@yoondoong/%EA%B0%80%EB%B3%80-%EA%B0%9D%EC%B2%B4-%EB%B6%88%EB%B3%80-%EA%B0%9D%EC%B2%B4-feat.-%EC%9D%BC%EA%B8%89-%EA%B0%9D%EC%B2%B4)
-- 함수형 프로그래밍 vs 객체 지향 프로그래밍
+- ~~SOLID 원칙~~ - [정리 링크](https://velog.io/@yoondoong/SOLID-%EC%9B%90%EC%B9%99)
+- ~~DTO, VO, Entity, DAO 정의 및 차이점~~ - [정리 링크](https://velog.io/@yoondoong/DTO-DAORepository-VO-Entity)
+- ~~Primitive 타입 vs Reference 타입~~ - [정리 링크](https://velog.io/@yoondoong/%EC%9B%90%EC%8B%9C-%ED%83%80%EC%9E%85Primitive-Type-%EC%B0%B8%EC%A1%B0-%ED%83%80%EC%9E%85Reference-Type)
+- ~~Spring Parameter Auto 바인딩~~ - [정리 링크](https://velog.io/@yoondoong/Parameter-%EC%98%A4%ED%86%A0-%EB%B0%94%EC%9D%B8%EB%94%A9)
+- ~~Optional 정의 및 사용법~~ - [정리 링크](https://velog.io/@yoondoong/Optioanl%EC%9D%B4%EB%9E%80)
+- ~~불변 객체, 가변 객체, 일급 객체~~ - [정리 링크](https://velog.io/@yoondoong/%EA%B0%80%EB%B3%80-%EA%B0%9D%EC%B2%B4-%EB%B6%88%EB%B3%80-%EA%B0%9D%EC%B2%B4-feat.-%EC%9D%BC%EA%B8%89-%EA%B0%9D%EC%B2%B4)
+- ~~Java 메모리 구조(JVM)~~ - [정리 링크](https://velog.io/@yoondoong/Java-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B5%AC%EC%A1%B0)
+- ~~바이트 코드~~ - [정리 링크](https://velog.io/@yoondoong/%EB%B0%94%EC%9D%B4%ED%8A%B8-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%9D%BD%EB%8A%94-%EB%B0%A9%EC%8B%9D)
+- Garbage Collector(GC)
+- 함수형 프로그래밍, 객체 지향, 절차 지향
 - 직렬화(Serialize) 개념 정의
 - IOC, DI
 - @ControllerAdvice, @RestConrollerAdvice
@@ -26,6 +29,7 @@
 - 파일 업로드
 - LocalThread
 - 디자인 패턴
+  - 싱글톤 패턴, 전략 패턴
   - 템플릿 메소드 패턴, 콜백 패턴
   - 프록시 패턴, 데코레이터 패턴
 - Proxy
