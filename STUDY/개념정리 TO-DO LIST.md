@@ -7,7 +7,7 @@
 - ~~불변 객체, 가변 객체, 일급 객체~~ - [정리 링크](https://velog.io/@yoondoong/%EA%B0%80%EB%B3%80-%EA%B0%9D%EC%B2%B4-%EB%B6%88%EB%B3%80-%EA%B0%9D%EC%B2%B4-feat.-%EC%9D%BC%EA%B8%89-%EA%B0%9D%EC%B2%B4)
 - ~~Java 메모리 구조(JVM)~~ - [정리 링크](https://velog.io/@yoondoong/Java-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B5%AC%EC%A1%B0)
 - ~~바이트 코드~~ - [정리 링크](https://velog.io/@yoondoong/%EB%B0%94%EC%9D%B4%ED%8A%B8-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%9D%BD%EB%8A%94-%EB%B0%A9%EC%8B%9D)
-- Garbage Collector(GC)
+- Garbage Collector(GC) - [정리 링크](https://velog.io/@yoondoong/Garbage-CollectionGC)
 - 함수형 프로그래밍, 객체 지향, 절차 지향
 - 직렬화(Serialize) 개념 정의
 - IOC, DI
