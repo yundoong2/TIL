@@ -12,6 +12,10 @@
 - ~~함수형 프로그래밍, 객체 지향, 절차 지향~~ - [정리 링크](https://velog.io/@yoondoong/%EC%A0%88%EC%B0%A8-%EC%A7%80%ED%96%A5-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
 - ~~직렬화(Serialize) 개념 정의~~ - [정리 링크](https://velog.io/@yoondoong/%EC%A7%81%EB%A0%AC%ED%99%94Serialize)
 - IOC, DI
+- 디자인 패턴
+  - 싱글톤 패턴, 전략 패턴
+  - 템플릿 메소드 패턴, 콜백 패턴
+  - 프록시 패턴, 데코레이터 패턴
 - @ControllerAdvice, @RestConrollerAdvice
 - @Component vs @Configuration
 - Spring Container 와 Spring Bean
@@ -29,10 +33,6 @@
 - Spring Type Converter
 - 파일 업로드
 - LocalThread
-- 디자인 패턴
-  - 싱글톤 패턴, 전략 패턴
-  - 템플릿 메소드 패턴, 콜백 패턴
-  - 프록시 패턴, 데코레이터 패턴
 - Proxy
 - Bean 후처리기
 - AOP
