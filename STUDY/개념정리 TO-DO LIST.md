@@ -22,6 +22,7 @@
   - 전략 패턴
 - ~~@ControllerAdvice, @RestConrollerAdvice~~ - [정리 링크](https://velog.io/@yoondoong/%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC-ExceptionHandler-ControllerAdvice)
 - ~~@Component vs @Configuration~~ - [정리 링크](https://velog.io/@yoondoong/Bean-Component-Configuration)
+- RESTful
 - Spring Container 와 Spring Bean
 - 싱글톤 컨테이너
 - Component Scan
