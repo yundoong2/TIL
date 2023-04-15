@@ -24,8 +24,8 @@
 - ~~@Component vs @Configuration, Component Scan~~ - [정리 링크](https://velog.io/@yoondoong/Bean-Component-Configuration)
 - ~~REST, RESTful, REST API~~ - [정리 링크](https://velog.io/@yoondoong/REST-RESTful-REST-API)
 - ~~Spring Container(싱글톤 컨테이너) 와 Spring Bean~~ - [정리 링크](https://velog.io/@yoondoong/Spring-Container)
-- 의존관계 자동 주입
-- 빈 생명주기 콜백
+- ~~의존관계 자동 주입~~ - [정리 링크](https://velog.io/@yoondoong/%EC%9D%98%EC%A1%B4%EA%B4%80%EA%B3%84-%EC%9E%90%EB%8F%99-%EC%A3%BC%EC%9E%85)
+- ~~빈 생명주기 콜백~~ - [정리 링크](https://velog.io/@yoondoong/%EB%B9%88-%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0-%EC%BD%9C%EB%B0%B1)
 - 빈 스코프
 - 핸들러 매핑과 핸들러 어댑터
 - View Resolver
