@@ -26,7 +26,8 @@
 - ~~Spring Container(싱글톤 컨테이너) 와 Spring Bean~~ - [정리 링크](https://velog.io/@yoondoong/Spring-Container)
 - ~~의존관계 자동 주입~~ - [정리 링크](https://velog.io/@yoondoong/%EC%9D%98%EC%A1%B4%EA%B4%80%EA%B3%84-%EC%9E%90%EB%8F%99-%EC%A3%BC%EC%9E%85)
 - ~~빈 생명주기 콜백~~ - [정리 링크](https://velog.io/@yoondoong/%EB%B9%88-%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0-%EC%BD%9C%EB%B0%B1)
-- 빈 스코프
+- ~~빈 스코프~~ - [정리 링크](https://velog.io/@yoondoong/%EB%B9%88-%EC%8A%A4%EC%BD%94%ED%94%84Bean-Scope)
+- Servlet
 - 핸들러 매핑과 핸들러 어댑터
 - View Resolver
 - 메시지, 국제화
@@ -40,7 +41,7 @@
 - Bean 후처리기
 - AOP
 - DDL, DML, DCL
-- Future, CompletableFuture (멀티쓰레드)
+- 프로세스와 쓰레드
 - TypeReference (AOP)
 - TDD, BDD, ATDD, DDD
 - Junit(xUnit)
