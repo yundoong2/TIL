@@ -29,7 +29,7 @@
 - ~~빈 스코프~~ - [정리 링크](https://velog.io/@yoondoong/%EB%B9%88-%EC%8A%A4%EC%BD%94%ED%94%84Bean-Scope)
 - ~~Servlet~~ - [정리 링크](https://velog.io/@yoondoong/Servlet-%EC%98%88%EC%A0%9C)
 - ~~MVC 패턴~~ - [정리 링크](https://velog.io/@yoondoong/MVC-%ED%8C%A8%ED%84%B4)
-- FrontController
+- ~~FrontController~~ - [정리 링크](https://velog.io/@yoondoong/FrontController#-%EC%A0%95%EB%A6%AC)
 - 핸들러 매핑과 핸들러 어댑터
 - View Resolver
 - 메시지, 국제화
