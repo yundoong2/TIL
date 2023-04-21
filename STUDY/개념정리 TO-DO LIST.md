@@ -30,6 +30,7 @@
 - ~~Servlet~~ - [정리 링크](https://velog.io/@yoondoong/Servlet-%EC%98%88%EC%A0%9C)
 - ~~MVC 패턴~~ - [정리 링크](https://velog.io/@yoondoong/MVC-%ED%8C%A8%ED%84%B4)
 - ~~FrontController~~ - [정리 링크](https://velog.io/@yoondoong/FrontController#-%EC%A0%95%EB%A6%AC)
+- 스프링 MVC 구조 (DispatcherServlet)
 - 핸들러 매핑과 핸들러 어댑터
 - View Resolver
 - 메시지, 국제화
