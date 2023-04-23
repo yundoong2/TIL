@@ -36,8 +36,8 @@
 - ~~스프링 MVC - @RequestMapping~~ - [정리 링크](https://velog.io/@yoondoong/%EC%8A%A4%ED%94%84%EB%A7%81-MVC-RequestMapping)
 - ~~HTTP MessageConverter~~ - [정리 링크](https://velog.io/@yoondoong/HTTP-MessageConverter)
 - RequestMappingHandlerAdapter 구조 및 동작 방식 - [정리 링크](https://velog.io/@yoondoong/RequestMappingHandlerAdapter-%EA%B5%AC%EC%A1%B0)
-- 메시지, 국제화
-- Validation, Bean Validation
+- Validation
+- Bean Validation
 - Cookie, Session
 - Filter, Interceptor
 - Spring Type Converter
