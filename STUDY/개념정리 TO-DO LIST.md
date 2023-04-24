@@ -35,10 +35,10 @@
 - ~~View Resolver~~ - [정리 링크](https://velog.io/@yoondoong/View-Resolver)
 - ~~스프링 MVC - @RequestMapping~~ - [정리 링크](https://velog.io/@yoondoong/%EC%8A%A4%ED%94%84%EB%A7%81-MVC-RequestMapping)
 - ~~HTTP MessageConverter~~ - [정리 링크](https://velog.io/@yoondoong/HTTP-MessageConverter)
-- RequestMappingHandlerAdapter 구조 및 동작 방식 - [정리 링크](https://velog.io/@yoondoong/RequestMappingHandlerAdapter-%EA%B5%AC%EC%A1%B0)
-- Validation
-- Bean Validation
-- Cookie, Session
+- ~~RequestMappingHandlerAdapter 구조 및 동작 방식~~ - [정리 링크](https://velog.io/@yoondoong/RequestMappingHandlerAdapter-%EA%B5%AC%EC%A1%B0)
+- ~~Validation~~ - [정리 링크](https://velog.io/@yoondoong/Validation)
+- ~~Bean Validation~~ - [정리 링크](https://velog.io/@yoondoong/Bean-Validation)
+- ~~로그인 처리 - Cookie, Session~~ - [정리 링크](https://velog.io/@yoondoong/%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%B2%98%EB%A6%AC-%EC%BF%A0%ED%82%A4-%EC%84%B8%EC%85%98)
 - Filter, Interceptor
 - Spring Type Converter
 - 파일 업로드
