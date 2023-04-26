@@ -41,9 +41,8 @@
 - ~~로그인 처리 - Cookie, Session~~ - [정리 링크](https://velog.io/@yoondoong/%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%B2%98%EB%A6%AC-%EC%BF%A0%ED%82%A4-%EC%84%B8%EC%85%98)
 - ~~Filter, Interceptor~~ - [정리 링크](https://velog.io/@yoondoong/Filter-Interceptor)
 - ~~Servlet 예외 처리~~ - [정리 링크](https://velog.io/@yoondoong/Servlet-%EC%98%88%EC%99%B8-%EC%B2%98%EB%A6%AC)
-- API 예외 처리
-- Spring Type Converter
-- 파일 업로드
+- ~~API 예외 처리~~ - [정리 링크](https://velog.io/@yoondoong/API-%EC%98%88%EC%99%B8-%EC%B2%98%EB%A6%AC)
+- ~~Spring Type Converter~~ = [정리 링크](https://velog.io/@yoondoong/Data-Binding)
 - LocalThread
 - Proxy
 - Bean 후처리기
