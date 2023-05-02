@@ -42,7 +42,7 @@
 - ~~Filter, Interceptor~~ - [정리 링크](https://velog.io/@yoondoong/Filter-Interceptor)
 - ~~Servlet 예외 처리~~ - [정리 링크](https://velog.io/@yoondoong/Servlet-%EC%98%88%EC%99%B8-%EC%B2%98%EB%A6%AC)
 - ~~API 예외 처리~~ - [정리 링크](https://velog.io/@yoondoong/API-%EC%98%88%EC%99%B8-%EC%B2%98%EB%A6%AC)
-- ~~Spring Type Converter~~ = [정리 링크](https://velog.io/@yoondoong/Data-Binding)
+- ~~Spring Type Converter~~ - [정리 링크](https://velog.io/@yoondoong/Data-Binding)
 - LocalThread
 - Proxy
 - Bean 후처리기
@@ -52,5 +52,5 @@
 - TypeReference (AOP)
 - TDD, BDD, ATDD, DDD
 - Junit(xUnit)
-- Swagger
+- ~~Swagger~~ - [정리 링크](https://velog.io/@yoondoong/Swagger)
 - JPA
